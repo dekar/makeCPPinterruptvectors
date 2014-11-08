@@ -1,0 +1,7 @@
+
+README
+*.o
+build/*
+*.pro.user*
+Makefile
+
